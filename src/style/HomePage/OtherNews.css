@@ -1,0 +1,31 @@
+.other{
+    padding: 85px;
+}
+.otherParent{
+    cursor: pointer;
+    margin-top:50px;
+    display: flex;
+    padding-right: 50px;
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.otherParent img{
+    width:30vw;
+    height:350px;
+}
+.otherContent{
+    margin-left:80px;
+    width: 90%;
+    height:50%;
+}
+.otherContent h2{
+    margin-top:30px
+}
+.otherContent p{
+    color: gray;
+    margin-top:25px
+}
+.otherContent .details{
+    position:absolute;
+    margin-top:20px;
+}

@@ -1,0 +1,22 @@
+.detail{
+    padding: 0 300px;
+}
+
+.detail h1{
+    margin-top: 50px;
+}
+
+.detail img{
+    object-fit: cover;
+    height:700px;
+    width: 1300px;
+    margin-top: 50px;
+}
+
+.detail p{
+    margin-top:50px;
+    font-size:23px;
+    width:1300px;
+    text-align: justify;
+    line-height: 28px;
+}
